@@ -19,7 +19,7 @@ Rollup是以太坊的一个解决方案，可以大大降低gas费，它是将L2
 
 ##### Optimistic
 
-##### ZK
+##### ZK(zero-knowledge)
 
 目前存在的 L2 方案，主要包括以下几个：
 
