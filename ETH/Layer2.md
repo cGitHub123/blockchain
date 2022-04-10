@@ -10,6 +10,17 @@
 
 ### 解决方案
 
+#### Rollup
+
+Rollup是以太坊的一个解决方案，可以大大降低gas费，主要分为两种
+
+* Optimistic
+* ZK
+
+##### Optimistic
+
+##### ZK
+
 目前存在的 L2 方案，主要包括以下几个：
 
 Optimistic Rollups：数据上链、欺诈证明。应用团队包括 Optimism、Offchain Labs Arbitrum rollup、Fuel Network；
