@@ -1,0 +1,37 @@
+链码部署相关：
+
+有package 打包
+
+有install 安装
+
+有approve 批准
+
+有commit 提交
+
+有queryInstalled 查询已安装
+
+有queryApproved 查询已批准
+
+有queryCommitted 查询已提交
+
+有getInstalledCCPackage 获得已安装Pack
+
+有checkCCCommitReadiness 检查链码commit状态
+
+有queryInstantiatedChaincodes  查询链码信息
+
+
+链码调用相关：
+
+有init
+
+有query
+
+有invoke
+
+
+通道相关：
+
+有createChannel
+
+有joinChannel
